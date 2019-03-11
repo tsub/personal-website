@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -27,23 +27,25 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # linkedin: your_username
   # medium: @your_username
   # stackoverflow: your_user_id
-  # twitter: your_username
+  twitter: _tsub_
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Kubernetes
+    web_url: https://kubernetes.io
+    image_url: https://raw.githubusercontent.com/kubernetes/kubernetes/6ec5a7d3371729a6d922f66ad8703de5e3d6ac95/logo/logo.png
 
-  - name: Web design
+  - name: Golang
+    web_url: https://golang.org
+    image_url: https://user-images.githubusercontent.com/10208211/54131468-c0db0980-4455-11e9-8b4b-a766ca97088b.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Terrform
+    web_url: https://terraform.io
+    image_url: https://www.terraform.io/assets/images/og-image-8b3e4f7d.png
