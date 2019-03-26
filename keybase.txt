@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tsub
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tsub.me
+  * I am tsub (https://keybase.io/tsub) on keybase.
+  * I have a public key ASDvCT32kIM-W-kIJCn5ePMlvGNbd2DASrioCqY5dXQtaQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ef093df690833e5be9082429f978f325bc635b7760c04ab8a80aa63975742d690a",
+      "host": "keybase.io",
+      "kid": "0120ef093df690833e5be9082429f978f325bc635b7760c04ab8a80aa63975742d690a",
+      "uid": "89a067ed021d017dd63b13b606b45719",
+      "username": "tsub"
+    },
+    "merkle_root": {
+      "ctime": 1553603100,
+      "hash": "4c7689153cb0f5f6144117c1b3173e431dcb28d428fe4530c3b559faa93aa385e5f3c591c4a9bb57d2b9cd8c83854001d29fe4e708ac7c3ea098ba5ac210435b",
+      "hash_meta": "8c1f8f898123a62cb9799c4197e2177f07e515cd6094c38f5a17900545522e00",
+      "seqno": 5024611
+    },
+    "service": {
+      "entropy": "o9i3hhOPHDXGJoT3xK7eRtKi",
+      "hostname": "tsub.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1553603118,
+  "expire_in": 504576000,
+  "prev": "ff2a4216231d9362f90de7066c48d468996238472153fcb97d91aaba29d2dd6f",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7wk99pCDPlvpCCQp+XjzJbxjW3dgwEq4qAqmOXV0LWkKp3BheWxvYWTESpcCCcQg/ypCFiMdk2L5DecGbEjUaJliOEchU/y5fZGquinS3W/EIFM+aU4Kg/KDTUgSKOa0Jm0uugQv/yWGTz/Np+ss80wCAgHCo3NpZ8RAn4O0yOd9zVQppfMKlS3qlYlD36uUz5kiUnKOlQ0d/TfZkoLt4obB0asBBSq4qs8OfmbA/mecRL4JadpPf91ZB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMwIhDZCcJrNCKZns7rWUTm/j6kvdRSLlGcen5agOfRIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tsub
+
+==================================================================
