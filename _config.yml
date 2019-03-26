@@ -34,8 +34,10 @@ social_media:
   # linkedin: your_username
   # medium: @your_username
   # stackoverflow: your_user_id
+  # telegram: your_username
   twitter: _tsub_
   # youtube: your_username
+  # vk: your_username
 
 topics:
   - name: Kubernetes
